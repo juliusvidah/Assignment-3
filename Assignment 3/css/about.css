@@ -1,0 +1,25 @@
+.inline-elements {
+    padding: 15px;
+    font-size: 2rem;
+}
+
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 0.5rem 2rem;
+    font-size: 2rem;
+    min-height: 5vh;
+
+}
+
+body{
+    margin: 0;
+}
+
+h3{
+    margin: 1rem;
+}
+p{
+    margin: 1rem;
+}
